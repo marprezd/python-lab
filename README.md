@@ -17,14 +17,12 @@ The code snippets of this repository are designed for the understanding of a pyt
 ## Repository structure
 ```
 ├─ Basic
-│  ├─ Invoice v1.ipynb
 │  ├─ ModifyingListInLoops.ipynb
 │  ├─ PythonNegativeIndexing.ipynb
 │  ├─ TupleListComprehension_bag.ipynb
 │  └─ WhileLoopWithFunction.ipynb
 ├─ Intermediate
 │  └─ ZipLambdaFunctions.ipynb
-├─ .gitignore
 ├─ LICENSE
 └─ README.md
 
@@ -53,6 +51,7 @@ Image by <a href="https://pixabay.com/users/JohnsonMartin-724525/?utm_source=lin
 
 ## Donations
 
-If you like my contribution to the open source community, please consider supporting me with a small monthly donation. I will be very grateful to you!
-<img src="http://img.shields.io/liberapay/receives/maprezdev.svg?logo=liberapay">
+If you like my contribution to the open source community, please consider supporting me with a small monthly donation. I will be very grateful to you!:
+
+<noscript><a href="https://liberapay.com/maprezdev/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
 
