@@ -14,30 +14,13 @@ This repository is a collection of Python code snippets based on self-learning a
 
 The code snippets of this repository are designed for the understanding of a python developer from basic to advanced levels.
 
-## Repository structure
-```
-├─ Basic
-│  ├─ ModifyingListInLoops.ipynb
-│  ├─ OpenGuestBooks.ipynb
-│  ├─ PythonNegativeIndexing.ipynb
-│  ├─ SquareRootNumber.ipynb
-│  ├─ SumUpFirtInteger.ipynb
-│  ├─ TupleListComprehension_bag.ipynb
-│  └─ WhileLoopWithFunction.ipynb
-├─ Intermediate
-│  ├─ ConvertCelsiusToFarehrenheit.ipynb
-│  ├─ NumberDivisibleWithListComprehension.ipynb
-│  └─ ZipLambdaFunctions.ipynb
-├─ LICENSE
-└─ README.md
-
-```
 ## Run it yourself...
 
 To run the code simply click on the badge to open the notebook in Google Colab
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/googlecolab/colabtools/blob/master/notebooks/colab-github-demo.ipynb)
 
+ or clone this repository and run each of the files on your local server.
 ## Issues
 
 Have you detected any bugs or have problems executing the code? You are welcome! Open an Issue in [Issues](https://github.com/marprezd/python-lab/issues)
